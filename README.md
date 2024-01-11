@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akriti-kesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="akriti-kesarwani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/akriti-kesarwani/akriti-kesarwani/blob/main/girlprog.png">
 
 - 🔭 My Project [CheckRover](https://github.com/akriti-kesarwani/30Akritikesarwani_23_27_sem-1_Nocode.git)
 
@@ -35,3 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akriti-kesarwani&show_icons=true&locale=en" alt="akriti-kesarwani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akriti-kesarwani&" alt="akriti-kesarwani" /></p>
+
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">Statistics</h2>
+<div align="center">
+<a href="https://github.com/akriti-kesarwani">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akriti-kesarwani&theme=midnight_purple" height="250em" />
