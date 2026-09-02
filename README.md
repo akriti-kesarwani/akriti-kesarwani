@@ -1,169 +1,255 @@
-Yes — I’ll keep **your exact format and structure**, and only update the content for your current profile: **4th year, Cyber Security + Full Stack**, plus your portfolio and updated skills.
-
-I also fixed the broken Markdown/HTML escaping and the LinkedIn URL.
-
 <div align="center">
-<img src="https://media3.giphy.com/media/NKEt9elQ5cR68/giphy.gif" align="center" height="250" style="width: 100%" width="1000"/>
-</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</h1>
+<img src="https://media3.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" height="250"/>
 
-<h1 align="center">Hi 👋, I'm Akriti Kesarwani</h1>
+<br>
 
-<h3 align="center">A passionate 4th Year Computer Science Student | Cyber Security Enthusiast | Full-Stack Developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Akriti+Kesarwani+%F0%9F%91%8B;Cyber+Security+Enthusiast+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;Building.+Learning.+Securing.+%F0%9F%9A%80"/>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=akriti-kesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="akriti-kesarwani" />
-</p>
-
-<p align="left">
-<a href="https://github.com/akriti-kesarwani" target="blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-<a href="https://akriti-portfolio-f2gfn9a6o-akriti-kesarwanis-projects.vercel.app" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio" />
-</a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/akriti-kesarwani/akriti-kesarwani/blob/main/girlprog.png">
-
-* 🔭 I'm currently working on **Cyber Security & Full-Stack Development Projects**
-
-* 🌱 I'm currently learning **Cyber Security, Ethical Hacking, Python, JavaScript & Full-Stack Development**
-
-* 👨‍💻 All of my projects are available at **[https://github.com/akriti-kesarwani](https://github.com/akriti-kesarwani)**
-
-* 🌐 Check out my Portfolio **[https://akriti-portfolio-f2gfn9a6o-akriti-kesarwanis-projects.vercel.app](https://akriti-portfolio-f2gfn9a6o-akriti-kesarwanis-projects.vercel.app)**
-
-* 💬 Ask me about **Cyber Security, Programming, Web Development, Full-Stack Development & Python**
-
-* 📫 How to reach me **[2023.akritik@isu.ac.in](mailto:2023.akritik@isu.ac.in)**
-
-* ⚡ Fun fact **I love learning new technologies, exploring new places and enjoying every moment**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="left">Connect with me:</h3>
-
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/akriti-kesarwani-916949283/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://github.com/akriti-kesarwani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-</a>
-
-<a href="https://akriti-portfolio-f2gfn9a6o-akriti-kesarwanis-projects.vercel.app" target="blank">
-<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="30" />
-</a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3>🚀 4th Year Computer Science Student | Cyber Security × Full-Stack Development</h3>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akriti-kesarwani&show_icons=true&locale=en&layout=compact" alt="akriti-kesarwani" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akriti-kesarwani&show_icons=true&locale=en" alt="akriti-kesarwani" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akriti-kesarwani" alt="akriti-kesarwani" />
-</p>
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="left">Statistics</h2>
-
-<div align="center">
+<a href="https://akriti-portfolio-f2gfn9a6o-akriti-kesarwanis-projects.vercel.app">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
 
 <a href="https://github.com/akriti-kesarwani">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akriti-kesarwani&theme=midnight_purple" height="250em" />
+<a href="https://www.linkedin.com/in/akriti-kesarwani-916949283/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=akriti-kesarwani&label=PROFILE+VIEWS&color=00F7FF&style=flat"/>
+
+</div>
+
+---
+
+## 🖥️ `whoami`
+
+```bash
+┌──(akriti㉿github)-[~/profile]
+└─$ whoami
+
+Akriti Kesarwani
+```
+
+🎓 **4th Year Computer Science Student**
+
+🔐 **Cyber Security Enthusiast**
+
+💻 **Full-Stack Developer**
+
+🚀 **Tech Explorer & Problem Solver**
+
+I’m a Computer Science student passionate about **Cyber Security and Full-Stack Development**. I enjoy building applications, exploring how systems work, solving technical problems, and learning how to make software more secure.
+
+My goal is to combine **development + security** to build applications that are not only functional and scalable, but also secure.
+
+---
+
+## 🔐 `security.exe`
+
+```text
+> Initializing Cyber Security Journey...
+
+[████████████████████████████░░] 90%
+
+✓ Cyber Security Fundamentals
+✓ Web Application Security
+✓ Secure Coding
+✓ Ethical Hacking
+✓ Vulnerability Assessment
+✓ Network Security
+✓ Security Testing
+→ Always Learning...
+```
+
+### 🛡️ Security Interests
+
+`Cyber Security` • `Ethical Hacking` • `Web Security` • `Secure Coding`
+`Vulnerability Assessment` • `Network Security` • `Security Testing`
+
+---
+
+## 💻 `dev_stack`
+
+### 👩‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### ⚙️ Backend & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## ⚡ `what_i_build`
+
+```text
+╔══════════════════════════════════════════╗
+║              MY TECH STACK               ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  🔐 Cyber Security                       ║
+║     └─ Security • Web Security           ║
+║        Ethical Hacking • Secure Coding   ║
+║                                          ║
+║  💻 Full-Stack Development               ║
+║     └─ Frontend • Backend • APIs         ║
+║                                          ║
+║  🐍 Programming                          ║
+║     └─ Python • C • C++ • JavaScript     ║
+║                                          ║
+║  🚀 Deployment & Version Control         ║
+║     └─ Git • GitHub • Vercel             ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+---
+
+## 🚀 Featured Project
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio where I showcase my **projects, technical skills, interests, and journey in Cyber Security & Full-Stack Development**.
+
+<div align="center">
+
+<a href="https://akriti-portfolio-f2gfn9a6o-akriti-kesarwanis-projects.vercel.app">
+
+<img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-Visit_Website-00F7FF?style=for-the-badge"/>
 
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+## 📂 Projects
 
-<div align="center">
+### 🔎 CheckRover
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+An academic project developed during my Computer Science journey.
 
-<h2>Quotes</h2>
+🔗 **Repository:**
+https://github.com/akriti-kesarwani/30Akritikesarwani_23_27_sem-1_Nocode
 
-<div align="center">
+---
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
+## 🌱 Currently Learning
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-</div>
-
-</div>
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENTLY LEARNING              │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🔐 Advanced Cyber Security                  │
+│  🌐 Web Application Security                 │
+│  🕵️ Ethical Hacking                          │
+│  💻 Full-Stack Development                   │
+│  🐍 Advanced Python                          │
+│  ⚡ Modern JavaScript                         │
+│  🔒 Secure Application Development           │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-This keeps the **same overall format/style you originally had**, but updates the profile from an early-stage student profile to your current **4th-year Cyber Security + Full-Stack** profile.
+---
+
+## 🎯 2026 Goals
+
+* 🔐 Strengthen my **Cyber Security skills**
+* 💻 Build more **full-stack applications**
+* 🛡️ Learn advanced **Web Security & Ethical Hacking**
+* 🚀 Work on meaningful real-world projects
+* 📚 Keep learning and improving every day
+* 💼 Prepare for opportunities in **Cyber Security & Software Development**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akriti-kesarwani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akriti-kesarwani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akriti-kesarwani&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 GitHub Profile
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akriti-kesarwani&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akriti-kesarwani-916949283/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/akriti-kesarwani">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://akriti-portfolio-f2gfn9a6o-akriti-kesarwanis-projects.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-00F7FF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:2023.akritik@isu.ac.in">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🔐 Build. Break. Secure. Repeat.
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+awesome!+%F0%9F%9A%80"/>
+
+</div>
