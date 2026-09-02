@@ -41,13 +41,13 @@
 Akriti Kesarwani
 ```
 
-🎓 **4th Year Computer Science Student**
+ **4th Year Computer Science Student**
 
-🔐 **Cyber Security Enthusiast**
+ **Cyber Security Enthusiast**
 
-💻 **Full-Stack Developer**
+ **Full-Stack Developer**
 
-🚀 **Tech Explorer & Problem Solver**
+ **Tech Explorer & Problem Solver**
 
 I’m a Computer Science student passionate about **Cyber Security and Full-Stack Development**. I enjoy building applications, exploring how systems work, solving technical problems, and learning how to make software more secure.
 
@@ -81,7 +81,7 @@ My goal is to combine **development + security** to build applications that are 
 
 ## 💻 `dev_stack`
 
-### 👩‍💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
@@ -156,8 +156,6 @@ My personal developer portfolio where I showcase my **projects, technical skills
 
 An academic project developed during my Computer Science journey.
 
-🔗 **Repository:**
-https://github.com/akriti-kesarwani/30Akritikesarwani_23_27_sem-1_Nocode
 
 ---
 
@@ -183,16 +181,16 @@ https://github.com/akriti-kesarwani/30Akritikesarwani_23_27_sem-1_Nocode
 
 ## 🎯 2026 Goals
 
-* 🔐 Strengthen my **Cyber Security skills**
-* 💻 Build more **full-stack applications**
-* 🛡️ Learn advanced **Web Security & Ethical Hacking**
-* 🚀 Work on meaningful real-world projects
-* 📚 Keep learning and improving every day
-* 💼 Prepare for opportunities in **Cyber Security & Software Development**
+*  Strengthen my **Cyber Security skills**
+*  Build more **full-stack applications**
+*  Learn advanced **Web Security & Ethical Hacking**
+*  Work on meaningful real-world projects
+*  Keep learning and improving every day
+*  Prepare for opportunities in **Cyber Security & Software Development**
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -210,7 +208,7 @@ https://github.com/akriti-kesarwani/30Akritikesarwani_23_27_sem-1_Nocode
 
 ---
 
-## 📈 GitHub Profile
+##  GitHub Profile
 
 <div align="center">
 
